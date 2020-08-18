@@ -4,7 +4,7 @@ My name is Hanno Vorster and I am a software developer. I am from South Africa �
 
 ## ✍️ Blog
 
-Apart from coding, I also have my own blog on [hannovorster.github.io](http://hannovorster.github.io/).🌎
+Apart from coding, I also have my own blog on [hannovorster.github.io](http://hannovorster.github.io/).
 
 ## 🔧 Technologies and Tools
 
