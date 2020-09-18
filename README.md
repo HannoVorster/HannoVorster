@@ -21,7 +21,7 @@ Apart from coding, I also have my own blog on [hannovorster.github.io](http://ha
 
 ## 📈 GitHub Stats
 
-[![Hanno's github stats](https://github-readme-stats.vercel.app/api?username=HannoVorster&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hanno's github stats](https://github-readme-stats.vercel.app/api?username=HannoVorster&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannovorster&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
