@@ -1,6 +1,6 @@
 # Hi! 👋
 
-During the day I build cool shit on software, during the night I play a game or 2 and inbetween I run to keep the blood pumping!
+During the day I build cool shit with software, during the night I play a game or 2 and inbetween I run to keep the blood pumping!
 
 ## ✍️ Blog
 
