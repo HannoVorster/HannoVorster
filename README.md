@@ -1,12 +1,10 @@
-# Hello, everyone! 👋
+# Hi! 👋
 
-My name is Hanno Vorster and I am a software developer. I am from South Africa 🌎.
-
-I work throughout the day and try my best to work on personal projects after hours.
+During the day I build cool shit on software, during the night I play a game or 2 and inbetween I run to keep the blood pumping!
 
 ## ✍️ Blog
 
-Apart from coding, I also have my own blog on [hannovorster.github.io](http://hannovorster.github.io/).
+I try to keep a blog of what I have learned => [hannovorster.github.io](http://hannovorster.github.io/).
 
 ## 🔧 Technologies and Tools
 
