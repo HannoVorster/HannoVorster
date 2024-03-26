@@ -20,8 +20,3 @@ I try to keep a blog of what I have learned => [hannovorster.github.io](http://h
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-## 📈 GitHub Stats
-
-[![Hanno's github stats](https://github-readme-stats.vercel.app/api?username=HannoVorster&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannovorster&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
